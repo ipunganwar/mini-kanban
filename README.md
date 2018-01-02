@@ -1,2 +1,4 @@
 # mini-kanban
-task from hacktiv8 phase 2
+
+LInk 
+https://ganban-f9714.firebaseapp.com/#/
